@@ -1,0 +1,41 @@
+.todoListParent{
+     margin-top: 50px;
+}
+
+.updaetDelte{
+
+margin-left: 260px;
+}
+
+.valueHadding{
+     display: flex;
+     justify-content: space-around;
+     margin-top: 10px;
+     margin-bottom: 10px;
+}
+
+.listBtn{
+
+     width: 200px;
+display:flex;
+justify-content: space-around;
+
+}
+
+.textShow{
+     width: 400px;
+}
+
+.listInput{
+     margin: auto;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.datalist{
+     margin-top: 20px;
+}
+
+.textData{
+     font-style: italic;
+}
